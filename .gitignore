@@ -1,0 +1,19 @@
+# Compiled class files & build directories
+*.class
+target/
+build/
+
+# IDE configurations
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local environment and database files
+.env
+*.log
+application-local.properties
